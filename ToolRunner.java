@@ -18,7 +18,7 @@ import java.util.function.Function;
  * Example:
  * java ToolRunner kv_get myNamespace myKey
  */
-public class ToolRunner {
+public class MCPTool {
 
     /**
      * Functional interface for tool implementations.
